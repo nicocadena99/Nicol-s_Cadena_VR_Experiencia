@@ -1,2 +1,2 @@
-# Nicol-s_Cadena_VR_Experiencia
+# Nicolas_Cadena_VR_Experiencia
 Experiencia VR - Multifest - Nicolás Cadena.
